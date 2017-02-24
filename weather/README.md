@@ -18,10 +18,10 @@ The project needs five modules, those following : yql, lodash, meow, chalk, upda
 
 To use the app, you have to write in a terminal : node cli.js
 Default values will be Bangladesh Dhaka if you don't write any parameter.
+![](http://www.zupimages.net/up/17/08/5n8d.png)
 This app give the temperature and weather of the town and country.
 For example if I write the command : Node cli.js Paris France, the app will answer me :   
 Paris, France
 Condition: Partly Cloudy
 Temperature: 10C
-
 ![](http://www.zupimages.net/up/17/08/obfl.png)
