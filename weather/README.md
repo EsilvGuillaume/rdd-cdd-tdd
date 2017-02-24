@@ -1,6 +1,6 @@
 # cli-weather
 
-
+![](http://www.podcastfrancaisfacile.com/wp-content/uploads/2007/02/meteo.jpg)
 
 ##Part 1,
 
